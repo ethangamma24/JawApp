@@ -25,7 +25,7 @@ For the JawWeb project:
 To run the nodejs project in the local environment run ```firebase serve``` from the JawWeb project. You should be able to see the project at ```localhost:5000```
 
 ### iOS
-The iOS project has not been started yet :(
+Ethan is starting on this woohoooooo
 
 ## Built With
 
@@ -54,6 +54,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * **Tyler Moon** - *Main Developer / Owner* - [tmoon8730](https://github.com/tmoon8730)
 * **Lawton Mizell** - *Main Developer* - [alcamech](https://github.com/Alcamech)
+* **Ethan Harmon** - *Main Developer* - [ethangamma24](https://github.com/ethangamma24)
 
 See also the list of [contributors](https://github.com/tmoon8730/JawApp/blob/master/CONTRIBUTORS.txt) who participated in this project.
 
